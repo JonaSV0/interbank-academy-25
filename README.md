@@ -4,7 +4,7 @@
    El reto técnico "Procesamiento de Transacciones Bancarias (CLI)" tiene como propósito desarrollar una aplicación funcional y eficiente que permita procesar un archivo de transacciones bancarias en formato CSV.
 
 2. **Instrucciones de Ejecución**
-   1. Instalación de Dependencias
+   1. *Instalación de Dependencias*
       La aplicación no requiere la instalación de dependencias externas, ya que utiliza únicamente la biblioteca estándar de Python. Asegúrate de que tengas instalada una versión de Python 3.6 o superior.
 
       Para verificar tu versión de Python, ejecuta:
